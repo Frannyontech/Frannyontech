@@ -2,11 +2,12 @@
 
 ## I'm an English teacher, Developer, and an Aviation enthusiast!!
 
-- 🌱 I’m currently learning everything and looking for my first job in tech
-- 👯 Ruby on Rails
+- 🌱 Full Stack developer in a SaaS Company
+- 👯 Ruby on Rails and Python
 - 👨‍💻 2022 Goals: Learn more about Docker, NodeJS and maybe ReactJs
-- ⚡ Fun fact: I love making spotify playlists based on a feeling or a style 🥅
-- 🔭 Besides aviation, I love Space and reading about it.
+- 🤖 Currently Learning: Web scraping, ReactJs and Web Automation with Python
+- ⚡ Fun fact: I love making spotify playlists based on a feeling or a style 
+- 🔭 Besides aviation, I love Space and reading about it
 
 ### Connect with me:
 
