@@ -4,7 +4,7 @@
 
 - 🌱 Full Stack developer in a SaaS Company
 - 👯 Ruby on Rails and Python
-- 👨‍💻 2023 Goals: Learn more about data structures & algorithms, more ReactJs and Java
+- 👨‍💻 2023 Goals: Learn more about data structures & algorithms, and Java
 - 🤖 Currently Learning: ReactJs and advanced features of RoR
 - ⚡ Fun fact: I love making spotify playlists based on a feeling or a style 
 - 🔭 Besides aviation, I love Space and crafting
