@@ -2,11 +2,11 @@
 
 ## I'm an English teacher, Developer, and an Aviation enthusiast!!
 
-- 🌱 Full Stack developer in a SaaS Company
-- 👯 Ruby on Rails and Python
-- 👨‍💻 2023 Goals: Learn more about data structures & algorithms, and Java
-- 🤖 Currently Learning: ReactJs and advanced features of RoR
-- ⚡ Fun fact: I love making spotify playlists based on a feeling or a style 
+- 🌱 QA Automation in the insurance industry
+- 👯 Python and Selenium
+- 👨‍💻 2025 Goals: Learn more about the cloud and Linux
+- 🤖 Currently Learning: About to finish my Bachelors degree in Computer Engineering
+- ⚡ Fun fact: I love making spotify playlists based on a feeling or a style. I adore cooking with my husband 
 - 🔭 Besides aviation, I love Space and crafting
 
 ### Connect with me:
