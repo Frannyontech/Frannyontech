@@ -1,6 +1,6 @@
 # Hi there, I'm Francisca - aka [Frannyontech]
 
-## I'm an English teacher, Developer, and an Aviation enthusiast!!
+## I'm a QA Automation Engineer and English Instructor
 
 - 🌱 QA Automation in the insurance industry
 - 👯 Python and Selenium
